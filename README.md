@@ -1,4 +1,4 @@
-# Pixel 
+# pixel
 
 ## Overview
 To stand out in the competitive e-commerce landscape, we need to implement innovative features that capture and maintain user interest. Our proposal introduces two groundbreaking elements to enhance our shopping platform: the Quick-Pick Interface and the StyleScape.
