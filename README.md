@@ -1,4 +1,4 @@
-# Myntra HackerRamp: Team Pixel 
+# Pixel 
 
 ## Overview
 Standing out requires innovation that captures and sustains user engagement. To address this, we propose integrating two cutting-edge features into the shopping platform: the Swiping Interface and VibeBoard. 
@@ -21,10 +21,4 @@ Drawing inspiration from Pinterest, the VibeBoard allows users to search and exp
 
 VibeBoards are not only personal collections but also dynamic, shareable entities. Users can share their boards on social media, enhancing interaction and engagement. This feature serves as a powerful tool for influencers and helps predict upcoming fashion trends through aggregated data analysis.
 
-## Team Members
-- [Anoushka Sen](https://github.com/senanoushka)
-- [Arunima Patra](https://github.com/arunima-patra)
-- [Aveepsa Sarkar](https://github.com/LostCatinLostCity)
 
-## Acknowledgments
-- Myntra HackerRamp for the opportunity to innovate in fashion tech.
